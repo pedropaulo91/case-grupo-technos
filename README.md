@@ -14,7 +14,7 @@ A tabela abaixo contém as funcionalidades e rotas da API de Usuários:
 |Autentica o usuário                |https://localhost:5001/api/usuarios/login      |POST        |
 
 As requisições feitas para API de Produtos precisam conter o cabeçalho **Authorization** 
-e seu valor com token do usuário.
+e seu valor com o token do usuário.
 
 A tabela abaixo contém as funcionalidades e rotas da API de Produtos:
 
