@@ -2,7 +2,7 @@
 Uma API proposta como parte do processo seletivo
 ## Como usar
 
-A API de Produtos é protegida por Token JWT. Então, antes de usá-la, é preciso cadastrar um usuário.
+A API REST de Produtos é protegida por Token JWT. Então, antes de usá-la, é preciso cadastrar um usuário.
 Um token é retornado após o usuário ser autenticado. 
 
 A tabela abaixo contém as funcionalidades e rotas da API de Usuários:
