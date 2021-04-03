@@ -24,4 +24,4 @@ A tabela abaixo contém as funcionalidades e rotas da API de Produtos:
 |Lista todos os produtos            |https://localhost:5001/api/produtos            |GET         |
 |Busca um produto pelo id           |https://localhost:5001/api/produtos/{id}       |GET         |
 |Atualiza um produto pelo id        |https://localhost:5001/api/produtos/{id}       |PUT         |
-|Deleta um produto pelo seu id      |https://localhost:5001/api/produtos/{id}       |DELETE      |
+|Deleta um produto pelo id      |https://localhost:5001/api/produtos/{id}       |DELETE      |
