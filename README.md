@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/pedropaulo91/case-grupo-technos)
 # Case Desenvolvimento .NET Grupo Technos 
 Uma API proposta como parte do processo seletivo
 ## Como usar
